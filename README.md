@@ -161,6 +161,7 @@ A specific source can be retrieved like this:
 http http://localhost:5678/source/LT050460261984185-SC20161231013600
 ``
 
+THIS IS AN EXAMPLE
 
 [1]: https://github.com/USGS-EROS/lcmap-landsat/blob/develop/resources/shared/lcmap-landsat.edn "Configuration File"
 [2]: https://hub.docker.com/r/usgseros/lcmap-landsat/ "Docker Image"
